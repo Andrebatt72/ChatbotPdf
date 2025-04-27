@@ -70,17 +70,21 @@ Para resolver isso, foi criado um **Chatbot Inteligente** que:
 
 ## 📸 Prints do Projeto
 
-### 🔵 Preparando Ambiente no Azure Foundry
+### 🔵 Provisionamento do Ambiente
 
-*Adicionar aqui print da preparação no Azure Foundry.*
+![Provisionamento](https://satreinamentoazureblob1.blob.core.windows.net/apps/Provisao.JPG)
 
-### 🟠 Processamento dos PDFs
+---
 
-*Adicionar aqui print do carregamento e processamento dos PDFs.*
+### 🟠 Carregamento e Processamento dos PDFs
+
+![Processando PDFs](https://satreinamentoazureblob1.blob.core.windows.net/apps/Pdf.png)
+
+---
 
 ### 🟣 Testando o Chatbot
 
-*Adicionar aqui print da interface do chat em funcionamento.*
+![Chatbot funcionando](https://satreinamentoazureblob1.blob.core.windows.net/apps/Chatboot.JPG)
 
 ---
 
